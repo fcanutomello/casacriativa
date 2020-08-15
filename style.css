@@ -1,0 +1,37 @@
+/*
+CSS
+Cascading Stylesheet
+
+*/
+body {
+    background: #e5e5e5e5;
+    columns: #25282b;
+    text-align: center;
+}
+
+/* Para mexer na classe use ponto */
+.fat {
+    background: white;
+}
+
+button.fat{
+    background: #FF5EB4;
+    border: none;
+    font-weight: bold;
+    color: white;
+}
+
+#footer a {
+    color: #25282B;
+    text-decoration: none;
+}
+
+.hide {
+    display: none;
+}
+
+/*Para acessar o ID usa # */
+
+/* ID vs Clase 
+ID coloco uma vez só, por elemento
+Class qtas vezes eu quiser*/
